@@ -1,15 +1,15 @@
-🎞️ SLIDE 1 — Title Slide
+SLIDE 1 — Title Slide
 
-Icon: 📢 or 🎬
+Icon: [Megaphone/Film Clapperboard]
 Title: One Small Choice — PSA Presentation
 Subtitle: Integrity & Anti-Corruption
 Presenter: Talha Muhammad
 
 ⸻
 
-🎯 SLIDE 2 — Objective
+SLIDE 2 — Objective
 
-Icon: 🎯
+Icon: [Target/Bullseye]
 Heading: Objective
 Content:
 	•	Show how small corrupt offers pressure young people
@@ -18,9 +18,9 @@ Content:
 
 ⸻
 
-👥 SLIDE 3 — Target Audience
+SLIDE 3 — Target Audience
 
-Icon: 👥
+Icon: [Group of People/Users]
 Heading: Target Audience
 Content:
 	•	University students
@@ -29,25 +29,25 @@ Content:
 
 ⸻
 
-🎨 SLIDE 4 — Creative Approach
+SLIDE 4 — Creative Approach
 
-Icon: 🎨
+Icon: [Artist Palette/Paintbrush]
 Heading: Creative Approach
 Content:
 	•	Text-message storytelling style to feel modern & realistic
-	•	Solo acting with Yousaf represented through chat bubbles
+	•	Solo acting with Rafi represented through chat bubbles
 	•	Minimalist scenes to keep the focus on the moral pressure
 	•	Real-life scenario students can relate to: job pressure + temptation
 
 ⸻
 
-📜 SLIDE 5 — Key Content
+SLIDE 5 — Key Content
 
-Icon: 📜
+Icon: [Document Scroll/Paper]
 Heading: Key Content
 Content:
 	•	Job rejections increase desperation
-	•	Yousaf offers “easy money” through shady tasks
+	•	Rafi offers “easy money” through shady tasks
 	•	Temptation builds → you pause and reflect
 	•	You reject corruption
 	•	You find an honest opportunity afterwards
@@ -55,9 +55,9 @@ Content:
 
 ⸻
 
-📣 SLIDE 6 — Call to Action
+SLIDE 6 — Call to Action
 
-Icon: 📣
+Icon: [Megaphone/Announcement]
 Heading: Call to Action
 Content:
 	•	Think before accepting “easy money” or suspicious offers
@@ -67,9 +67,9 @@ Content:
 
 ⸻
 
-💭 SLIDE 7 — Reflection
+SLIDE 7 — Reflection
 
-Icon: 💭
+Icon: [Thought Bubble/Mind]
 Heading: What I Learned
 Content:
 	•	Corruption often starts with “small favours”
@@ -80,9 +80,9 @@ Content:
 
 ⸻
 
-🙏 SLIDE 8 — Credits & Acknowledgment
+SLIDE 8 — Credits & Acknowledgment
 
-Icon: 🙏
+Icon: [Praying Hands/Gratitude]
 Heading: Credits
 Content:
 	•	Filming & Editing: Talha Muhammad
